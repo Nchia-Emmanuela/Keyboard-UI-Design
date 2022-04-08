@@ -30,3 +30,7 @@ button {
     transition: all 0.3s;
     box-shadow: 6px 6px 12px #afafaf, -6px -6px 12px #e0e0e0;
 }
+
+button:hover {
+    border: 1px solid #fff;
+}
