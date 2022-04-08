@@ -10,8 +10,17 @@
 }
 
 button {
-    padding: 0.8rem;
+    /* padding: 0.8rem; */
     margin: 0.2rem 0.1rem;
+    width: 70px;
+    height: 70px;
+    font-size: 16px;
+    background: #d8d8d8;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    border: 1px solid #e8e8e8;
+    transition: all 0.3s;
+    box-shadow: 6px 6px 12px #afafaf, -6px -6px 12px #e0e0e0;
 }
 
 .body {
