@@ -42,3 +42,27 @@ button:active {
 i {
     font-size: 22px;
 }
+
+.oneBtn {
+    width: 100px;
+}
+
+.twoBtn {
+    width: 128px;
+}
+
+.threeBtn {
+    width: 146px;
+}
+
+.fourBtn {
+    width: 90px;
+}
+
+.space {
+    width: 335px;
+}
+
+.four button {
+    width: 60px;
+}
