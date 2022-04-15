@@ -36,5 +36,9 @@ button:hover {
 }
 
 button:active {
-    box-shadow: 4px 4px 12px #c5c5c5, -4px -4px 12px #fff;
+    box-shadow: 4px 4px 12px #c5c5c5, -4px -4px 12px #fff; 
+}
+
+i {
+    font-size: 22px;
 }
