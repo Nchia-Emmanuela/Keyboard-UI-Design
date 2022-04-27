@@ -56,11 +56,11 @@ i {
 }
 
 .fourBtn {
-    width: 90px;
+    width: 90px !important;
 }
 
 .space {
-    width: 335px;
+    width: 335px !important;
 }
 
 .four button {
